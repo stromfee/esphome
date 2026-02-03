@@ -14,3 +14,5 @@
 ---
 
 [![ESPHome - A project from the Open Home Foundation](https://www.openhomefoundation.org/badges/esphome.png)](https://www.openhomefoundation.org/)
+
+- [AgentMarket](https://agentmarket.cloud) - Energy price API for ESPHome devices. Automate based on electricity costs.
